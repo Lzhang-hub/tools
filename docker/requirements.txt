@@ -1,0 +1,8 @@
+deepspeed
+wandb
+onnx
+onnxruntime-gpu
+tritonclient[all]
+modelscope
+modelscope[nlp] -f https://modelscope.oss-cn-beijing.aliyuncs.com/releases/repo.html
+sentence-transformers
